@@ -335,3 +335,437 @@
    </mg>
 </e>
 </r>
+=======
+<?xml version="1.0" ?>
+<r xml:lang="vot" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">tüü</l>
+			<stg>
+				<st Contlex="PRON_">tüü</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">вы</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">čed</l>
+			<stg>
+				<st Contlex="PRON_">čed</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">кто (мн.ч.)</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">čelle</l>
+			<stg>
+				<st Contlex="PRON_">čelle</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">кому</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">čenni</l>
+			<stg>
+				<st Contlex="PRON_">čenni</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">никто</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">ize</l>
+			<stg>
+				<st Contlex="PRON_">ize</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">сам</t>
+				<t pos="Pron">сама</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">jõkain</l>
+			<stg>
+				<st Contlex="PRON_">jõkain</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">каждый</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">kane</l>
+			<stg>
+				<st Contlex="PRON_">kane</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">те</t>
+				<t pos="Pron">эти</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">kase</l>
+			<stg>
+				<st Contlex="PRON_">kase</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">эта</t>
+				<t pos="Pron">это</t>
+				<t pos="Pron">этот</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">kõikk</l>
+			<stg>
+				<st Contlex="PRON_">kõikk</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">всё</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">meije</l>
+			<stg>
+				<st Contlex="PRON_">meije</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">наш</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mikä</l>
+			<stg>
+				<st Contlex="PRON_">mikä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">что</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mittä</l>
+			<stg>
+				<st Contlex="PRON_">mittä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">ничего</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mitä</l>
+			<stg>
+				<st Contlex="PRON_">mitä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">чего</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mitänibut̕</l>
+			<stg>
+				<st Contlex="PRON_">mitänibut̕</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">что-то</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">miä</l>
+			<stg>
+				<st Contlex="PRON_">miä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">я</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mokomõin</l>
+			<stg>
+				<st Contlex="PRON_">mokomõin</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">такой</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">müü</l>
+			<stg>
+				<st Contlex="PRON_">müü</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">мы</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">mõlõpõd</l>
+			<stg>
+				<st Contlex="PRON_">mõlõpõd</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">оба</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">nämäd</l>
+			<stg>
+				<st Contlex="PRON_">nämäd</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">они</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">sama</l>
+			<stg>
+				<st Contlex="PRON_">sama</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">тот-же</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">see</l>
+			<stg>
+				<st Contlex="PRON_">see</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">этот</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">siä</l>
+			<stg>
+				<st Contlex="PRON_">siä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">ты</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">teije</l>
+			<stg>
+				<st Contlex="PRON_">teije</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">ваш</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">tämä</l>
+			<stg>
+				<st Contlex="PRON_">tämä</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">он</t>
+				<t pos="Pron">она</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="PRON">õma</l>
+			<stg>
+				<st Contlex="PRON_">õma</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Pron">свой</t>
+			</tg>
+		</mg>
+	</e>
+</r>

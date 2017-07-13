@@ -58,3 +58,77 @@
    </mg>
 </e>
 </r>
+=======
+<?xml version="1.0" ?>
+<r xml:lang="vot" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">jäämme üvässi</l>
+			<stg>
+				<st Contlex="INTERJ_">jäämme üvässi</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Interj">до свидания</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">kops!</l>
+			<stg>
+				<st Contlex="INTERJ_">kops!</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Interj">гоп!</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">passibad</l>
+			<stg>
+				<st Contlex="INTERJ_">passibad</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Interj">спасибо</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="None" meta="">
+		<lg>
+			<l pos="INTERJ">tere</l>
+			<stg>
+				<st Contlex="INTERJ_">tere</st>
+			</stg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="rus">
+				<t pos="Interj">здравствуй</t>
+				<t pos="Interj">здравствуйте</t>
+			</tg>
+		</mg>
+	</e>
+</r>
+
