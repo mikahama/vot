@@ -1,48 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xml:lang="vot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e>
-   <lg>
-     <l pos="Pron">čed</l>
-     <stg>
-       <st Contlex="PRON_">čed</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pron">кто (мн.ч.)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">čelle</l>
-     <stg>
-       <st Contlex="PRON_">čelle</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pron">кому</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">čenni</l>
-     <stg>
-       <st Contlex="PRON_">čenni</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pron">никто</t>
-     </tg>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vot">
 <e>
    <lg>
      <l pos="Pron">ize</l>
@@ -205,19 +161,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">müü</l>
-     <stg>
-       <st Contlex="PRON_">müü</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pron">мы</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pron">mõlõpõd</l>
      <stg>
        <st Contlex="PRON_">mõlõpõd</st>
@@ -226,6 +169,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="Pron">оба</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">müü</l>
+     <stg>
+       <st Contlex="PRON_">müü</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">мы</t>
      </tg>
    </mg>
 </e>
@@ -296,19 +252,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">tüü</l>
-     <stg>
-       <st Contlex="PRON_">tüü</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pron">вы</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pron">tämä</l>
      <stg>
        <st Contlex="PRON_">tämä</st>
@@ -318,6 +261,19 @@
      <tg xml:lang="rus">
        <t pos="Pron">он</t>
        <t pos="Pron">она</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tüü</l>
+     <stg>
+       <st Contlex="PRON_">tüü</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">вы</t>
      </tg>
    </mg>
 </e>
@@ -334,4 +290,43 @@
      </tg>
    </mg>
 </e>
-</r>
+<e>
+   <lg>
+     <l pos="Pron">čed</l>
+     <stg>
+       <st Contlex="PRON_">čed</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">кто (мн.ч.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">čelle</l>
+     <stg>
+       <st Contlex="PRON_">čelle</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">кому</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">čenni</l>
+     <stg>
+       <st Contlex="PRON_">čenni</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">никто</t>
+     </tg>
+   </mg>
+</e>
+</r> 

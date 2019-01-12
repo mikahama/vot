@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xml:lang="vot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vot">
 <e>
    <lg>
      <l pos="Det">esimein</l>
@@ -11,7 +6,11 @@
        <st Contlex="DET_">esimein</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">первый</t>
      </tg>
@@ -24,7 +23,11 @@
        <st Contlex="DET_">jõka</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">каждый</t>
      </tg>
@@ -37,7 +40,11 @@
        <st Contlex="DET_">kumpõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">который</t>
      </tg>
@@ -50,7 +57,11 @@
        <st Contlex="DET_">kõlmõz</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">третий</t>
      </tg>
@@ -63,7 +74,11 @@
        <st Contlex="DET_">miltäin</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">каков</t>
      </tg>
@@ -76,7 +91,11 @@
        <st Contlex="DET_">mokom</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">такой</t>
      </tg>
@@ -89,7 +108,11 @@
        <st Contlex="DET_">mõnikõs</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">какой-нибудь</t>
      </tg>
@@ -102,7 +125,11 @@
        <st Contlex="DET_">pal̕l̕o</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">много</t>
      </tg>
@@ -115,11 +142,14 @@
        <st Contlex="DET_">viimein</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Det">последний</t>
      </tg>
    </mg>
 </e>
-</r>
-
+</r> 

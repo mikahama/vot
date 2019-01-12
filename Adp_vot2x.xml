@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xml:lang="vot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vot">
 <e>
    <lg>
      <l pos="Adp">allõ</l>
@@ -11,7 +6,11 @@
        <st Contlex="ADP_">allõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">под</t>
      </tg>
@@ -24,7 +23,11 @@
        <st Contlex="ADP_">eez</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">перед</t>
      </tg>
@@ -37,7 +40,11 @@
        <st Contlex="ADP_">enne</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">до</t>
      </tg>
@@ -50,7 +57,11 @@
        <st Contlex="ADP_">ilmõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">без</t>
      </tg>
@@ -63,7 +74,11 @@
        <st Contlex="ADP_">juurõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">к</t>
      </tg>
@@ -76,7 +91,11 @@
        <st Contlex="ADP_">juurõssõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">от</t>
      </tg>
@@ -89,7 +108,11 @@
        <st Contlex="ADP_">juurõz</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">у</t>
      </tg>
@@ -102,7 +125,11 @@
        <st Contlex="ADP_">kautta</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">через</t>
      </tg>
@@ -115,7 +142,11 @@
        <st Contlex="ADP_">läpi</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">через</t>
      </tg>
@@ -128,7 +159,11 @@
        <st Contlex="ADP_">müüte</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">по</t>
      </tg>
@@ -141,7 +176,11 @@
        <st Contlex="ADP_">nallõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">под</t>
      </tg>
@@ -154,22 +193,13 @@
        <st Contlex="ADP_">perrä</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">после</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adp">päälle</l>
-     <stg>
-       <st Contlex="ADP_">päälle</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pr">на (что, кого)</t>
      </tg>
    </mg>
 </e>
@@ -180,9 +210,30 @@
        <st Contlex="ADP_">pääll</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">на</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päälle</l>
+     <stg>
+       <st Contlex="ADP_">päälle</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Pr">на (что, кого)</t>
      </tg>
    </mg>
 </e>
@@ -193,7 +244,11 @@
        <st Contlex="ADP_">päälte</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">с (чего, кого)</t>
      </tg>
@@ -206,7 +261,11 @@
        <st Contlex="ADP_">süämez</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">внутри</t>
      </tg>
@@ -219,7 +278,11 @@
        <st Contlex="ADP_">takan</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">за</t>
        <t pos="Pr">посзади</t>
@@ -233,7 +296,11 @@
        <st Contlex="ADP_">takant</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">из-за</t>
        <t pos="Pr">сзади</t>
@@ -247,7 +314,11 @@
        <st Contlex="ADP_">takka</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">за (куда?)</t>
        <t pos="Pr">из-за</t>
@@ -261,7 +332,11 @@
        <st Contlex="ADP_">tüven</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">у</t>
      </tg>
@@ -274,7 +349,11 @@
        <st Contlex="ADP_">tüvve</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">к</t>
      </tg>
@@ -287,7 +366,11 @@
        <st Contlex="ADP_">tüvveä</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">от</t>
      </tg>
@@ -300,7 +383,11 @@
        <st Contlex="ADP_">vartõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">для</t>
      </tg>
@@ -313,22 +400,13 @@
        <st Contlex="ADP_">vassa</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">против</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adp">üli</l>
-     <stg>
-       <st Contlex="ADP_">üli</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="Pr">через</t>
      </tg>
    </mg>
 </e>
@@ -339,7 +417,11 @@
        <st Contlex="ADP_">ääre</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">к (чему)</t>
      </tg>
@@ -352,10 +434,31 @@
        <st Contlex="ADP_">äärez</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pr">у (чего)</t>
      </tg>
    </mg>
 </e>
-</r>
+<e>
+   <lg>
+     <l pos="Adp">üli</l>
+     <stg>
+       <st Contlex="ADP_">üli</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Pr">через</t>
+     </tg>
+   </mg>
+</e>
+</r> 

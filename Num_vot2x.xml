@@ -1,268 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xml:lang="vot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e>
-    <lg>
-      <l pos="Num">ühsi</l>
-
-      <stg>
-        <st Contlex="NUM_">ühsi</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">üks</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">yksi</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">один</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahs</l>
-
-      <stg>
-        <st Contlex="NUM_">kahs</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">kaks</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">kaksi</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">две</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kõlõd</l>
-
-      <stg>
-        <st Contlex="NUM_">kõlõd</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">kolm</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">kolme</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">трое</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">nel̕l̕ä</l>
-
-      <stg>
-        <st Contlex="NUM_">nel̕l̕ä</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">neli</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">neljä</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">четыре</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">viisi</l>
-
-      <stg>
-        <st Contlex="NUM_">viisi</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">viis</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">viisi</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">пятъ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kuusi</l>
-
-      <stg>
-        <st Contlex="NUM_">kuusi</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">kuus</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">kuusi</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">шесть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">seitsee</l>
-
-      <stg>
-        <st Contlex="NUM_">seitsee</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">seitse</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">seitsemän</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">семь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">kahõsa</l>
-
-      <stg>
-        <st Contlex="NUM_">kahõsa</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">kaheksa</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">kahdeksan</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">восемь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">ühesää</l>
-
-      <stg>
-        <st Contlex="NUM_">ühesää</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">üheksa</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">yhdeksän</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">девять</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Num">čümme</l>
-
-      <stg>
-        <st Contlex="NUM_">čümme</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="est">
-        <t pos="Num">kümme</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Num">kymmenen</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Num">десять</t>
-      </tg>
-    </mg>
-  </e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vot">
+<e>
+   <lg>
+     <l pos="Num">kahs</l>
+     <stg>
+       <st Contlex="NUM_">kahs</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">kaks</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kaksi</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">две</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Num">kahsčümmed</l>
@@ -270,10 +30,62 @@
        <st Contlex="NUM_">kahsčümmed</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">двадцать</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kahõsa</l>
+     <stg>
+       <st Contlex="NUM_">kahõsa</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">kaheksa</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kahdeksan</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">восемь</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kuusi</l>
+     <stg>
+       <st Contlex="NUM_">kuusi</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">kuus</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kuusi</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">шесть</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -283,10 +95,38 @@
        <st Contlex="NUM_">kõlmõd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">три</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kõlõd</l>
+     <stg>
+       <st Contlex="NUM_">kõlõd</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">kolm</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kolme</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">трое</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -296,10 +136,38 @@
        <st Contlex="NUM_">nelle</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">четыре</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">nel̕l̕ä</l>
+     <stg>
+       <st Contlex="NUM_">nel̕l̕ä</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">neli</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">neljä</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">четыре</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -309,7 +177,11 @@
        <st Contlex="NUM_">sata</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">сто</t>
      </tg>
@@ -322,10 +194,38 @@
        <st Contlex="NUM_">seitse</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">семь</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">seitsee</l>
+     <stg>
+       <st Contlex="NUM_">seitsee</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">seitse</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">seitsemän</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">семь</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -335,7 +235,11 @@
        <st Contlex="NUM_">tuhattõ</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">тысяча</t>
      </tg>
@@ -348,10 +252,62 @@
        <st Contlex="NUM_">viisi</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">пять</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">ühesää</l>
+     <stg>
+       <st Contlex="NUM_">ühesää</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">üheksa</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">yhdeksän</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">девять</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">ühsi</l>
+     <stg>
+       <st Contlex="NUM_">ühsi</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">üks</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">yksi</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">один</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -361,7 +317,11 @@
        <st Contlex="NUM_">ühsteiššümed</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">одиннадцать</t>
      </tg>
@@ -374,10 +334,38 @@
        <st Contlex="NUM_">ühz</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">один</t>
      </tg>
    </mg>
 </e>
-</r>
+<e>
+   <lg>
+     <l pos="Num">čümme</l>
+     <stg>
+       <st Contlex="NUM_">čümme</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="est">
+       <t pos="Num">kümme</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kymmenen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">десять</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 

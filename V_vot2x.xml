@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xml:lang="vot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vot">
 <e>
    <lg>
      <l pos="V">aja</l>
@@ -118,136 +113,6 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">помочь</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čedretä</l>
-     <stg>
-       <st Contlex="V_">čedretä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">прясть</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čenčisse</l>
-     <stg>
-       <st Contlex="V_">čenčisse</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">обуваться</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čihhua</l>
-     <stg>
-       <st Contlex="V_">čihhua</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">вариться</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čihutta</l>
-     <stg>
-       <st Contlex="V_">čihutta</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">варить</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čirjutta</l>
-     <stg>
-       <st Contlex="V_">čirjutta</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">писать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čitkoa</l>
-     <stg>
-       <st Contlex="V_">čitkoa</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">полоть</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čühseä</l>
-     <stg>
-       <st Contlex="V_">čühseä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">печься</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čülpisse</l>
-     <stg>
-       <st Contlex="V_">čülpisse</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">париться</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čüssüä</l>
-     <stg>
-       <st Contlex="V_">čüssüä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">спросить</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">čävve</l>
-     <stg>
-       <st Contlex="V_">čävve</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">ходить</t>
      </tg>
    </mg>
 </e>
@@ -526,19 +391,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">jürisse</l>
-     <stg>
-       <st Contlex="V_">jürisse</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">греметь</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">järissä</l>
      <stg>
        <st Contlex="V_">järissä</st>
@@ -573,6 +425,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">замёрзнуть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">jürisse</l>
+     <stg>
+       <st Contlex="V_">jürisse</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">греметь</t>
      </tg>
    </mg>
 </e>
@@ -867,19 +732,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">lainõhta</l>
-     <stg>
-       <st Contlex="V_">lainõhta</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">волноваться</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">la</l>
      <stg>
        <st Contlex="V_">la</st>
@@ -888,6 +740,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">пусть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">lainõhta</l>
+     <stg>
+       <st Contlex="V_">lainõhta</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">волноваться</t>
      </tg>
    </mg>
 </e>
@@ -1023,19 +888,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">lüvvä</l>
-     <stg>
-       <st Contlex="V_">lüvvä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">косить</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">lägätä</l>
      <stg>
        <st Contlex="V_">lägätä</st>
@@ -1084,6 +936,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">качаться</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">lüvvä</l>
+     <stg>
+       <st Contlex="V_">lüvvä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">косить</t>
      </tg>
    </mg>
 </e>
@@ -1143,19 +1008,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">müüvve</l>
-     <stg>
-       <st Contlex="V_">müüvve</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">продавать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">mälehtä</l>
      <stg>
        <st Contlex="V_">mälehtä</st>
@@ -1164,6 +1016,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">помнить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">müüvve</l>
+     <stg>
+       <st Contlex="V_">müüvve</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">продавать</t>
      </tg>
    </mg>
 </e>
@@ -1429,19 +1294,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">püütä</l>
-     <stg>
-       <st Contlex="V_">püütä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">ловить</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">päässe</l>
      <stg>
        <st Contlex="V_">päässe</st>
@@ -1477,6 +1329,19 @@
      <tg xml:lang="rus">
        <t pos="V">жечь</t>
        <t pos="V">сжигать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">püütä</l>
+     <stg>
+       <st Contlex="V_">püütä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">ловить</t>
      </tg>
    </mg>
 </e>
@@ -1547,19 +1412,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">šahissõ</l>
-     <stg>
-       <st Contlex="V_">šahissõ</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">шелестеть</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">salvoa</l>
      <stg>
        <st Contlex="V_">salvoa</st>
@@ -1568,19 +1420,6 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">рубить избу</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">šapissõ</l>
-     <stg>
-       <st Contlex="V_">šapissõ</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">шелестеть</t>
      </tg>
    </mg>
 </e>
@@ -1607,32 +1446,6 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">стоять</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">šipisse</l>
-     <stg>
-       <st Contlex="V_">šipisse</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">шипеть</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">širisse</l>
-     <stg>
-       <st Contlex="V_">širisse</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">журчать</t>
      </tg>
    </mg>
 </e>
@@ -1704,6 +1517,19 @@
 </e>
 <e>
    <lg>
+     <l pos="V">sõuta</l>
+     <stg>
+       <st Contlex="V_">sõuta</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">грести</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="V">süntüä</l>
      <stg>
        <st Contlex="V_">süntüä</st>
@@ -1725,19 +1551,6 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">кушать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">sõuta</l>
-     <stg>
-       <st Contlex="V_">sõuta</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">грести</t>
      </tg>
    </mg>
 </e>
@@ -1912,19 +1725,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">tüünissüä</l>
-     <stg>
-       <st Contlex="V_">tüünissüä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">затихнуть</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">täätä</l>
      <stg>
        <st Contlex="V_">täätä</st>
@@ -1960,6 +1760,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">тянуть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">tüünissüä</l>
+     <stg>
+       <st Contlex="V_">tüünissüä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">затихнуть</t>
      </tg>
    </mg>
 </e>
@@ -2212,19 +2025,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">vääntüä</l>
-     <stg>
-       <st Contlex="V_">vääntüä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">поворачиваться</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">vääntä</l>
      <stg>
        <st Contlex="V_">vääntä</st>
@@ -2233,6 +2033,19 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">переводить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">vääntüä</l>
+     <stg>
+       <st Contlex="V_">vääntüä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">поворачиваться</t>
      </tg>
    </mg>
 </e>
@@ -2264,58 +2077,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">ühesä</l>
-     <stg>
-       <st Contlex="V_">ühesä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">девять</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">ühte čäüvvä</l>
-     <stg>
-       <st Contlex="V_">ühte čäüvvä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">быть похожим</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">üpäte</l>
-     <stg>
-       <st Contlex="V_">üpäte</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">прыгать</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">žaaritta</l>
-     <stg>
-       <st Contlex="V_">žaaritta</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">жарить</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">ävisse</l>
      <stg>
        <st Contlex="V_">ävisse</st>
@@ -2324,19 +2085,6 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">теряться</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">öhsüä</l>
-     <stg>
-       <st Contlex="V_">öhsüä</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">заблудиться</t>
      </tg>
    </mg>
 </e>
@@ -2405,4 +2153,251 @@
      </tg>
    </mg>
 </e>
-</r>
+<e>
+   <lg>
+     <l pos="V">öhsüä</l>
+     <stg>
+       <st Contlex="V_">öhsüä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">заблудиться</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ühesä</l>
+     <stg>
+       <st Contlex="V_">ühesä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">девять</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ühte čäüvvä</l>
+     <stg>
+       <st Contlex="V_">ühte čäüvvä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">быть похожим</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">üpäte</l>
+     <stg>
+       <st Contlex="V_">üpäte</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">прыгать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čedretä</l>
+     <stg>
+       <st Contlex="V_">čedretä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">прясть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čenčisse</l>
+     <stg>
+       <st Contlex="V_">čenčisse</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">обуваться</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čihhua</l>
+     <stg>
+       <st Contlex="V_">čihhua</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">вариться</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čihutta</l>
+     <stg>
+       <st Contlex="V_">čihutta</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">варить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čirjutta</l>
+     <stg>
+       <st Contlex="V_">čirjutta</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">писать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čitkoa</l>
+     <stg>
+       <st Contlex="V_">čitkoa</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">полоть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čävve</l>
+     <stg>
+       <st Contlex="V_">čävve</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">ходить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čühseä</l>
+     <stg>
+       <st Contlex="V_">čühseä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">печься</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čülpisse</l>
+     <stg>
+       <st Contlex="V_">čülpisse</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">париться</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">čüssüä</l>
+     <stg>
+       <st Contlex="V_">čüssüä</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">спросить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">šahissõ</l>
+     <stg>
+       <st Contlex="V_">šahissõ</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">шелестеть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">šapissõ</l>
+     <stg>
+       <st Contlex="V_">šapissõ</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">шелестеть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">šipisse</l>
+     <stg>
+       <st Contlex="V_">šipisse</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">шипеть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">širisse</l>
+     <stg>
+       <st Contlex="V_">širisse</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">журчать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">žaaritta</l>
+     <stg>
+       <st Contlex="V_">žaaritta</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">жарить</t>
+     </tg>
+   </mg>
+</e>
+</r> 
